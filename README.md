@@ -1,6 +1,6 @@
 # music-recommendation-system ![](https://visitor-badge.glitch.me/badge?page_id=idevesh.music-recommendation-system&style=flat-square&color=0088cc)
 This project is a basic model on how a recommendation system works for the Music recommendation. 
-I used decision tree in this to create model.
+I used decision tree classifier in this model and reached a desirable accuracy according to the Dataset created by me.
 
 ## Usage
 1. Just Copy the files in your directory.
